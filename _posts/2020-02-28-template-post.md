@@ -1,20 +1,26 @@
 ---
 layout: post
-title: Sample blog post
+title: Sample blog post title
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
+comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This is a demo post to show you how to write blog posts with markdown.  You could also [take 5 minutes to learn how to write in markdown here](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc. All the basics you'll need to get up and running.
 
 **Here is some bold text**
 
+*Here is some italic text*
+
+***Here is some bold italic text***
+
+Here is [a link to another site](https://www.youtube.com/watch?v=ub82Xb1C8os)
+
 ## Here is a secondary heading
 
-Here's a useless table:
+### Here is a tertiary heading
+
+Here's a useless table (fair warning, tables are kind of a pain in markdown):
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -23,8 +29,7 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-
-How about a yummy crepe?
+How about an image?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
