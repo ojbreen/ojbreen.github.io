@@ -18,6 +18,8 @@ navbar-links:
   Publications: "publications"
   Outreach: "outreach"
   Blog: "blog"
+  
+# "quotations" mean look to file - no need for file extension  (.md)
 
 # --- Logo --- #
 
