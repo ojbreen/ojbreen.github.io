@@ -14,7 +14,7 @@ This is a demo post to show you how to write blog posts with markdown.  You coul
 
 ***Here is some bold italic text***
 
-Here is [a link to another site](https://www.youtube.com/watch?v=ub82Xb1C8os)
+Here is [a link to another site](https://www.wikipedia.org)
 
 ## Here is a secondary heading
 
