@@ -29,7 +29,7 @@ Here's a useless table (fair warning, tables are kind of a pain in markdown):
 | Seven | Eight | Six |
 | Two | Three | One |
 
-How about an image?
+How about an image (from an external site)?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
